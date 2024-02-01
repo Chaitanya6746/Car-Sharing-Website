@@ -1,8 +1,3 @@
-Team Members:
-* Gannavarpu suryakiran rao
-* Mukkanti Venkata Saketh 
-* Eshwar Nukula
-
 This is Web application to Plan Shared Journey with fellow Users.
 
 ### Used Tech
